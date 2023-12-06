@@ -132,6 +132,7 @@ footer p {
 
     .introduction {
         order: 1;
+        text-align: center;
     }
     
     .experience {
@@ -144,6 +145,7 @@ footer p {
     
     .information {
         order: 2;
+        text-align: center;
     }
     
     .technical_skills {
