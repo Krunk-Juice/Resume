@@ -129,4 +129,41 @@ footer p {
         flex-basis: 100%;
         margin: 0;
     }
+
+    .introduction {
+        order: 1;
+    }
+    
+    .experience {
+        order: 3;
+    }
+    
+    .education {
+        order: 4;
+    }
+    
+    .information {
+        order: 2;
+    }
+    
+    .technical_skills {
+        order: 5;
+    }
+    
+    .soft_skills {
+        order: 6;
+    }
+    
+    .work_authorization {
+        order: 7;
+    }
+    
+    .certificates {
+        order: 8;
+    }
+    
+    .foot {
+        order: 9;
+    }
+
 }
