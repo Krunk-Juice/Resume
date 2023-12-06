@@ -3,7 +3,7 @@
     display: grid;
     grid-template-columns: 5fr 1fr;
     grid-template-rows: auto auto auto auto auto auto;
-    padding: 2rem;
+    padding: 3rem;
 }
 
 h1 {
@@ -67,20 +67,20 @@ h4 {
 
 .introduction {
     /* order: 1; */
-    margin: 0rem 2rem 0rem 0rem;
+    margin: 0rem 3rem 0rem 0rem;
     grid-area: 1 / 1 / 2 / 2;
 }
 
 .experience {
     /* order: 3; */
-    margin: 0rem 2rem 0rem 0rem;
+    margin: 0rem 3rem 0rem 0rem;
     grid-row: span 4;
     grid-area: 2 / 1 / -3 / 2;
 }
 
 .education {
     /* order: 7; */
-    margin: 0rem 2rem 0rem 0rem;
+    margin: 0rem 3rem 0rem 0rem;
     grid-area: -3 / 1 / -2 / 2;
 }
 
@@ -113,11 +113,12 @@ h4 {
     grid-column: span 2;
     grid-area: -2 / 1 / -1 / -1;
     text-align: center;
-    margin: 1.1rem 0rem 0rem 0rem;
+    margin: 1.5rem 0rem 0rem 0rem;
 }
 
 footer p {
     font-size: 8pt;
+    margin-bottom: 0;
 }
 
 @media (max-width: 767px) {
@@ -168,7 +169,7 @@ footer p {
     
     .foot {
         order: 9;
-        margin: 1.1rem 0rem 0rem 0rem;
+        margin: 1.5rem 0rem 0rem 0rem;
     }
 
 }
