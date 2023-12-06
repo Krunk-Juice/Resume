@@ -10,6 +10,7 @@ h1 {
     font-size: 2.5rem;
     font-family: 'Merriweather', serif;
     font-weight: bolder;
+    margin-top: 1rem;
 }
 
 p {
@@ -112,6 +113,7 @@ h4 {
     grid-column: span 2;
     grid-area: -2 / 1 / -1 / -1;
     text-align: center;
+    margin: 1.1rem 0rem 0rem 0rem;
 }
 
 footer p {
@@ -166,6 +168,7 @@ footer p {
     
     .foot {
         order: 9;
+        margin: 1.1rem 0rem 0rem 0rem;
     }
 
 }
