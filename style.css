@@ -130,7 +130,7 @@ footer p {
     .container {
         display: flex;
         flex-direction: column;
-        padding: 2rem 2rem 1rem 2rem;
+        padding: 1.5rem 1.5rem 0.75rem 1.5rem;
     }
 
     .container > * {
