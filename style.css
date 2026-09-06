@@ -92,7 +92,7 @@ a[href] {
 .projects {
     /* order: 4; */
     margin: 0rem 3rem 0rem 0rem;
-    grid-area: 6 / 1 / -4 / 2;
+    grid-area: 6 / 1 / span 1 / 2;
 }
 
 .education {
